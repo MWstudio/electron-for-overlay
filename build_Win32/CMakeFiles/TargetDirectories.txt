@@ -1,0 +1,4 @@
+C:/Users/lmwlj/OneDrive/Desktop/electron-quick-start-master/build_Win32/CMakeFiles/ALL_BUILD.dir
+C:/Users/lmwlj/OneDrive/Desktop/electron-quick-start-master/build_Win32/CMakeFiles/ZERO_CHECK.dir
+C:/Users/lmwlj/OneDrive/Desktop/electron-quick-start-master/build_Win32/electron-overlay/CMakeFiles/electron-overlay.dir
+C:/Users/lmwlj/OneDrive/Desktop/electron-quick-start-master/build_Win32/electron-overlay/CMakeFiles/ALL_BUILD.dir

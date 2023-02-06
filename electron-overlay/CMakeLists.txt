@@ -2,7 +2,6 @@ project(electron-overlay)
 
 add_definitions(-DNAPI_VERSION=6)
 add_definitions(-DNAPI_EXPERIMENTAL)
-
 set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} /Zi")
 
 add_definitions(-DNOMINMAX)

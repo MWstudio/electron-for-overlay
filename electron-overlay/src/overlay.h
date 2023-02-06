@@ -308,8 +308,8 @@ inline std::vector<std::string> getMouseModifiers(WPARAM wparam, LPARAM lparam)
 
 class OverlayMain : public IIpcHost
 {
-    const std::string k_overlayIpcName = "n_overlay_1a1y2o8l0b";
-
+    // const std::string k_overlayIpcName = "n_overlay_1a1y2o8l0b";
+    const std::string k_overlayIpcName = "n_overlay_1a1y2o8l0f";
     IIpcHostCenter *ipcHostCenter_;
     std::map<std::uint32_t, IIpcLink *> ipcClients_;
 

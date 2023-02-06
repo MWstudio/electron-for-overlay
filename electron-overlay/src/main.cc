@@ -393,7 +393,7 @@ Napi::Object Init(Napi::Env env, Napi::Object exports)
   exports.Set(Napi::String::New(env, "sendWindowBounds"), Napi::Function::New(env, overlay::sendWindowBounds));
   exports.Set(Napi::String::New(env, "sendFrameBuffer"), Napi::Function::New(env, overlay::sendFrameBuffer));
   exports.Set(Napi::String::New(env, "translateInputEvent"), Napi::Function::New(env, overlay::translateInputEvent));
-
+  
   exports.Set(Napi::String::New(env, "getTopWindows"),
               Napi::Function::New(env, overlay::getTopWindows));
 
